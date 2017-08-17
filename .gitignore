@@ -1,4 +1,4 @@
-./models
-./vae_models
-./attack_npy
-./logs
+./models/*
+./vae_models/*
+./attack_npy/*
+./logs/*
